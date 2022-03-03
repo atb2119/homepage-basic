@@ -1,0 +1,22 @@
+.MainContainer {
+  width: 100vw;
+  height: 100vh;
+  /* background-image: linear-gradient(#f7b32b, #2d1e2f);
+  background-size: cover; */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.name {
+  font-family: "Roboto Serif", sans-serif;
+  padding: 2rem 0em 0em 0em;
+  font-size: 7em;
+}
+
+.linkText {
+  font-family: "Roboto Serif", sans-serif;
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 2rem 0 0 2rem;
+}

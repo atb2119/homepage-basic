@@ -1,0 +1,16 @@
+.about {
+  font-family: "Roboto Serif", sans-serif;
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 2rem 0 0 2rem;
+}
+
+.about:hover {
+  color: #a9e5bb;
+  cursor: pointer;
+}
+
+.text {
+  width: 40%;
+  margin-left: 5%;
+}
